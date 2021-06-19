@@ -1,0 +1,12 @@
+{
+  "name": "food-delivery",
+  "displayName": "food-delivery",
+  "expo": {
+    "name": "food-delivery",
+    "slug": "food-delivery",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
